@@ -1,0 +1,1 @@
+Documentación del proyecto Simon Dice desarrollado sobre la placa STM32F407G-DISC1.

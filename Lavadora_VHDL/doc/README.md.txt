@@ -1,0 +1,1 @@
+Documentación del proyecto: diagramas de bloques, diagramas de estados y memoria.

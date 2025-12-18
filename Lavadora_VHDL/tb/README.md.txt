@@ -1,0 +1,1 @@
+Bancos de pruebas (testbench) para la verificación de los módulos VHDL.

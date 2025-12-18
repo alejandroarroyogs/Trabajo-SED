@@ -1,0 +1,1 @@
+Archivo de restricciones (.xdc) para la asignación de pines en la FPGA.
